@@ -24,4 +24,4 @@ d10e5244f237        mcr.microsoft.com/azuredocs/azure-vote-front:v1   "/entrypoi
 ![Capture](https://user-images.githubusercontent.com/102173014/208044979-57e11888-b93b-4f5e-86de-3b5537492d8f.PNG)
 
 
-Kubernetes on Azure tutorial - Prepare an application - Azure Kubernetes Service _ Microsoft Learn.pdf](https://github.com/Naradsingh/Voting-App/files/10243549/Kubernetes.on.Azure.tutorial.-.Prepare.an.application.-.Azure.Kubernetes.Service._.Microsoft.Learn.pdf)
+(https://github.com/Naradsingh/Voting-App/files/10243549/Kubernetes.on.Azure.tutorial.-.Prepare.an.application.-.Azure.Kubernetes.Service._.Microsoft.Learn.pdf)
