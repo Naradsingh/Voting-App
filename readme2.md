@@ -19,3 +19,4 @@ d10e5244f237        mcr.microsoft.com/azuredocs/azure-vote-front:v1   "/entrypoi
 21574cb38c1f        mcr.microsoft.com/oss/bitnami/redis:6.0.8         "/opt/bitnami/script…"   3 minutes ago       Up 3 minutes        0.0.0.0:6379->6379/tcp          azure-vote-back
 
 # To see your running application, navigate to http://localhost:8080 in a local web browser. The sample application loads, as shown in the following example.
+![Capture](https://user-images.githubusercontent.com/102173014/208044979-57e11888-b93b-4f5e-86de-3b5537492d8f.PNG)
